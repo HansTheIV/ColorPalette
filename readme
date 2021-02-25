@@ -1,0 +1,8 @@
+A simple tool for generating interesting color palettes. Simply enter a starting color in (R, G, B) notation, and the tool will
+automatically display all the colors in question on your screen.
+
+--------------------
+
+No dependencies.
+
+--------------------
